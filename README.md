@@ -63,9 +63,9 @@ We built a **custom dataset** tailored to:
 ## 👨‍💻 Contributors
 
 - Jayal Shah  
-- Mayank Jangid  
+- Sakshi Makwana 
 - Raj Patel  
-- Sakshi Makwana  
+- Mayank Jangid   
 - Vishwas Patel
 
 ## 📬 Contact
